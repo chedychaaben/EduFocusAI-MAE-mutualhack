@@ -34,8 +34,8 @@ This project earned a Certificate of Participation for its active engagement and
 - Explore course content, monitor student activity, or analyze engagement metrics.
 
 ## Contributors
-- Chedy Chaaaben
-- Chehin Chaaaben
+- Chedy Chaaben
+- Chehin Chaaben
 - Taieb Jemal
 
 ## Acknowledgments
