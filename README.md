@@ -12,15 +12,15 @@ EduFocusAI is an intelligent platform designed to enhance educational experience
 ## Participation
 This project earned a Certificate of Participation for its active engagement and innovative contribution at the 2nd edition of the Mutual Hackathon. The team’s creativity, energy, and enthusiasm were key highlights of the event.
 
+![Hackathon Participation Certification](images/Hackathon%20Participation%20Certification.png)
 ## Screenshots
-- **[Hackathon Participation Certification](images/Hackathon Participation Certification.png)**: Certificate of Participation.
-- **[Login Page 1](images/screenshot1.png)**: Initial login interface.
-- **[Login Page 2](images/screenshot2.png)**: Login form details.
-- **[Admin Dashboard](images/screenshot3.png)**: Analytics and engagement metrics.
-- **[Professor Dashboard](images/screenshot4.png)**: Monitoring and notifications.
-- **[Student Dashboard](images/screenshot5.png)**: Course overview for students.
-- **[Course Details](images/screenshot6.png)**: Detailed lecture notes.
-- **[Welcome Screen](images/screenshot7.png)**: Course selection for students.
+![Login Page 1](images/screenshot1.png)
+![Login Page 2](images/screenshot2.png)
+![Admin Dashboard](images/screenshot3.png)
+![Professor Dashboard](images/screenshot4.png)
+![Student Dashboard](images/screenshot5.png)
+![Course Details](images/screenshot6.png)
+![Welcome Screen](images/screenshot7.png)
 
 ## Installation
 1. Clone the repository: `git clone <repository-url>`
