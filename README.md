@@ -39,4 +39,4 @@ This project earned a Certificate of Participation for its active engagement and
 - Taieb Jemal
 
 ## Acknowledgments
-Special thanks to MAE Assurances and the Mutual Hackathon organizers for the opportunity and support.
+Special thanks to MAE Assurances and the Mutual Hackathon organizers (https://mazam.tn) for the opportunity and support.
